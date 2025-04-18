@@ -1,7 +1,7 @@
 {
-  "keyword": "아파트",
-  "interval": 5,
+  "keyword": "사물함",
+  "interval": 1,
   "isRunning": false,
-  "lastCheck": "2025-04-16T15:51:00.175Z",
-  "nextCheck": "2025-04-16T20:51:00.175Z"
+  "lastCheck": "2025-04-18T09:45:27.966Z",
+  "nextCheck": "2025-04-18T10:45:27.966Z"
 }
